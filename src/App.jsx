@@ -1,4 +1,4 @@
-import BuilderBox from "./Components/BuilderBox";
+import BuilderBox from "./Components/BuilderBox/BuilderBox";
 
 const App = () => {
   return (
